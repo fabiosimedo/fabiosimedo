@@ -35,7 +35,6 @@
 <img align="left" alt="Cloudflare" width="26px" src="https://avatars.githubusercontent.com/u/314135?v=4" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />
 <img align="left" alt="Web Services" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/web/web.png" />
-<img align="left" alt="Linode" width="26px" src="https://avatars.githubusercontent.com/u/1444792?s=200&v=4" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" />
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" />
