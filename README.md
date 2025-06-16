@@ -50,5 +50,7 @@
 <br />
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
-
+<a href="https://www.linkedin.com/in/fabio-simedo-a459423a/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>
+</a>
 ___
